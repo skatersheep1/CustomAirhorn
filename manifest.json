@@ -1,0 +1,9 @@
+{
+    "name": "CustomAirhorn",
+    "version_number": "1.0",
+    "website_url": "https://github.com/skatersheep1/CustomAirhorn",
+    "description": "Lets you customise the Airhorn!",
+    "dependencies": [
+      "BepInEx-BepInExPack-5.4.2100"
+    ]
+  }
